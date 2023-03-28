@@ -24,3 +24,5 @@ To use this program, follow these steps:
 3. Set the timer for each player's move
 4. Play chess!
 5. Check your victories, draws, and defeats on the leaderboard
+
+Note: This project was created in 2020 and some aspects of it may be outdated. 
